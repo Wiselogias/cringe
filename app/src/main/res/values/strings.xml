@@ -1,4 +1,4 @@
-<resources>
-    <string name="app_name">vk_android_course_hw_1</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">vk_android_course_hw_1</string>
     <string name="add_item">Добавь Айтем</string>
 </resources>
